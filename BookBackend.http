@@ -1,0 +1,6 @@
+@BookBackend_HostAddress = http://localhost:5214
+
+GET {{BookBackend_HostAddress}}/
+Accept: application/json
+
+###
