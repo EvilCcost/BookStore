@@ -1,1 +1,30 @@
+# .NET
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.manifest
+*.log
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.sln.ide/
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
+# Test results
+[Tt]est[Rr]esult*
+[Bb]uild[Rr]esults/
+# NuGet
+packages/
+*.nupkg
+# User-specific files
+*.rsuser
+*.vspx
+*.psess
+# Environment
 .env
